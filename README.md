@@ -5,7 +5,7 @@
 
 Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **soluciones IoT** propias, desde la adquisición de datos (sensores), pasando por la interfaz y cómputo (sistema embebido), conectividad a la red (Internet) y finalizando en el análisis de datos (procesamiento en la *“nube”* y visualización en la Web).
 ### Información de contacto
-* **Telegram group:** [enlace](https://t.me/+Xf9vcdixHuQxM2Rh)
+* **Telegram group:** [enlace](https://t.me/+DBMddxwzR-w5NDI5)
 <br>
 
 ---
