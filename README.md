@@ -17,6 +17,7 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **s
 	* Descargar presentación [PDF](https://github.com/marcoteran/iot/raw/master/lectures/02_iot_applications.pdf)
 3. **Sistemas embebidos**
 	* Descargar presentación [PDF](https://github.com/marcoteran/iot/raw/master/lectures/03_iot_embeddedsystems.pdf)
+	- Introducción a Arduino y la ESP32  [PDF](https://github.com/marcoteran/internetofthings/raw/master/lectures/04_iot_arduino.pdf)
 ---		
 ## Laboratorios
 
@@ -32,6 +33,9 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **s
 	* <sub>NDG Linux Essentials</sub>
 ---
 ## Material adicional
+
+- Descargar instalador Driver ESP32 [Descargar](https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip) [Instrucciones](https://techexplorations.com/guides/esp32/begin/cp21xxx/)
+- Enlace para agregar board ESP32 a Arduino IDE [Enlace](https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json)
 
 ---
 ## Bibliografía
