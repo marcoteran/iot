@@ -30,7 +30,7 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **s
 		* IPython Notebooks:
 			- Notebook Curso corto de Python [descargar](https://github.com/marcoteran/iot/blob/master/laboratory/01_introtopython/01_internetofthings_pythoncrashcourse.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/iot/blob/master/laboratory/01_introtopython/01_internetofthings_pythoncrashcourse.ipynb)
-				* Python Homework [descargar](https://github.com/marcoteran/iot/blob/master/laboratory/01_introtopython/01_internetofthings_pythoncrashcoursehomework.ipynb)
+		    - Notebook Python Homework [descargar](https://github.com/marcoteran/iot/blob/master/laboratory/01_introtopython/01_internetofthings_pythoncrashcoursehomework.ipynb)
 				[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/iot/blob/master/laboratory/01_introtopython/02_internetofthings_pythoncrashcoursehomework.ipynb)
 				<sub>**(*deadline:* 10/04/2021)**</sub>
 ---		
