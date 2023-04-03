@@ -24,7 +24,7 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **s
 6. **Comunicaciones IoT**
 	* Descargar presentación [PDF](https://github.com/marcoteran/iot/raw/master/lectures/06_iot_comm.pdf)
 7. **Raspberry Pi**
-	* Descargar presentación [PDF](https://github.com/marcoteran/iot/raw/master/lectures/07_iot_raspberrypy.pdf)
+	* Descargar presentación [PDF](https://github.com/marcoteran/iot/raw/master/lectures/07_iot_raspberrypi.pdf)
 		- **Cheat sheet:** *Raspberry Pi Commands* [Descargar](https://github.com/marcoteran/iot/raw/master/cheatsheets/raspbianlinux_cheatsheet.pdf)
 8. **Fundamentos de Python** [PDF](https://github.com/marcoteran/iot/raw/master/lectures/08_iot_pythoncrashcourse.pdf)
 	* IPython Notebooks:
