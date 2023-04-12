@@ -34,6 +34,12 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **s
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/iot/blob/master/laboratory/01_introtopython/02_internetofthings_pythoncrashcoursehomework.ipynb)
 			<sub>**(*deadline:* 10/04/2021)**</sub>
 9. **Creación de proyectos físicos con Python en la Raspberry Pi** [PDF](https://github.com/marcoteran/iot/raw/master/lectures/09_iot_physicalrbpi.pdf)
+	* Descargar presentación [PDF](https://github.com/marcoteran/iot/raw/master/lectures/07_iot_raspberrypi.pdf)
+
+10. **Protocolos de comunicación entre dispositivos: WebSockets** [PDF](https://github.com/marcoteran/iot/raw/master/lectures/10_iot_websockets.pdf)
+	* Código Python para servidor WebSocket [Descargar](https://github.com/marcoteran/iot/raw/master/files/codes/websocket_server.py)
+	* Código Arduino para cliente WebSocket [Descargar](https://github.com/marcoteran/iot/raw/master/files/codes/websocket_client.ino)
+
 ---		
 ## Laboratorios
 
