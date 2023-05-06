@@ -67,4 +67,13 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **s
 ---
 ## Bibliografía
 
-
+1. Bahga, A., & Madisetti, V. (2017). Internet of Things: A Hands-On Approach. VPT.
+Kranz, M. (2016). Building the Internet of Things: Implement New Business Models, Disrupt Competitors, Transform Your Industry. Wiley.
+2. Rowland, C., Goodman, E., & Charlier, M. (2015). Designing Connected Products: UX for the Consumer Internet of Things. O'Reilly Media.
+3. Sweigart, A. (2019). Automate the Boring Stuff with Python: Practical Programming for Total Beginners. No Starch Press.
+4. Monk, S. (2016). Programming Arduino: Getting Started with Sketches. McGraw-Hill Education.
+5. Shovic, J. (2016). Raspberry Pi: The Ultimate Beginner's Guide - Discover How to Get Started with Raspberry Pi Projects. CreateSpace Independent Publishing Platform.
+6. Grinberg, M. (2018). Flask Web Development with Python Tutorial. O'Reilly Media.
+7. Vasilkov, M. (2019). Flask By Example: Unleash the full potential of the Flask web framework by creating simple yet powerful web applications. Packt Publishing.
+8. Beazley, D. M., & Jones, B. K. (2013). Python Essential Reference. Addison-Wesley Professional.
+9. Hunt, A., & Pruss, D. (2018). Pragmatic Version Control Using Git. Pragmatic Bookshelf.
