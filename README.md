@@ -42,11 +42,11 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **s
 	* Código Arduino para cliente WebSocket [Descargar](https://github.com/marcoteran/iot/raw/master/files/codes/websocket_client.ino)
 
 11. **Node-RED**
-	* Descargar presentación [PDF](https://github.com/marcoteran/internetofthings/raw/master/lectures/11_iot_nodered.pdf)
+	* Descargar presentación [PDF](https://github.com/marcoteran/iot/raw/master/lectures/11_iot_nodered.pdf)
 
 12. **Protocolos IoT**
-	* Descargar presentación [PDF](https://github.com/marcoteran/internetofthings/raw/master/lectures/12_iot_protocols.pdf)	
-		- Laboratorio MQTT [Descargar](https://github.com/marcoteran/internetofthings/raw/master/lectures/iot_MQTTlab.pdf)
+	* Descargar presentación [PDF](https://github.com/marcoteran/iot/raw/master/lectures/12_iot_protocols.pdf)	
+		- Laboratorio MQTT [Descargar](https://github.com/marcoteran/iot/raw/master/lectures/iot_MQTTlab.pdf)
 ---		
 ## Laboratorios
 * Laboratorio Websockets [**subir**](https://www.dropbox.com/request/IVyrmjZMBA7XR71E9gCD)
