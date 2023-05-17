@@ -47,6 +47,10 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **s
 12. **Protocolos IoT**
 	* Descargar presentación [PDF](https://github.com/marcoteran/iot/raw/master/lectures/12_iot_protocols.pdf)	
 		- Laboratorio MQTT [Descargar](https://github.com/marcoteran/iot/raw/master/lectures/iot_MQTTlab.pdf)
+13. **Introducción a las bases de datos**
+	* Descargar presentación [PDF](https://github.com/marcoteran/iot/raw/master/lectures/13_iot_databases.pdf)
+	* Código Python para base de datos [Descargar](https://github.com/marcoteran/iot/raw/master/files/codes/sqlitedb.py)
+
 ---		
 ## Laboratorios
 * Laboratorio Websockets [**subir**](https://www.dropbox.com/request/IVyrmjZMBA7XR71E9gCD)
