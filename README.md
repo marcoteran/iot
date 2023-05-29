@@ -50,6 +50,9 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **s
 13. **Introducción a las bases de datos**
 	* Descargar presentación [PDF](https://github.com/marcoteran/iot/raw/master/lectures/13_iot_databases.pdf)
 	* Código Python para base de datos [Descargar](https://github.com/marcoteran/iot/raw/master/files/codes/sqlitedb.py)
+14. **Introducción al backend: Flask**
+	* Descargar presentación [PDF](https://github.com/marcoteran/iot/raw/master/lectures/14_iot_webserver.pdf)
+	* Código Python para base de datos [Descargar](https://github.com/marcoteran/iot/raw/master/files/codes/webserver)
 
 ---		
 ## Laboratorios
