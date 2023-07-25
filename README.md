@@ -30,19 +30,22 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **s
 ---
 ## Certificados
 
+[**Networking Academy**](https://www.netacad.com/)
+
 1. **Primer corte**
-	* <sub>Introduction to Packet Tracer</sub>
-	* <sub>Introduction to IoT</sub>
+	* <sub>[Get Connected](https://www.netacad.com/courses/os-it/get-connected)</sub> 
+	* <sub>[Getting Started with Cisco Packet Tracer](https://skillsforall.com/course/getting-started-cisco-packet-tracer?courseLang=en-US)</sub>
 2. **Segundo corte**
-	* <sub>NDG Linux Unhatched</sub>
-	* <sub>[NDG Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials)</sub>
+	* <sub>[Introduction to IoT](https://www.netacad.com/courses/iot/introduction-iot)</sub>
+	* <sub>[NDG Linux Unhatched](https://www.netacad.com/courses/iot/ndg-linux-unhatched)</sub>
+	* <sub>[Python](https://www.kaggle.com/learn/python)</sub>
 3. **Tercer corte**
-	* <sub>Cybersecurity Essentials</sub>
-	* <sub>NDG Linux Essentials</sub>
+	* <sub>[Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials)</sub>	
+	* <sub>[NDG Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials)</sub></sub>
 
 ---
 ## Material adicional
-- Descargar instalador Driver ESP32 [[Download]](https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip) [Instrucciones](https://techexplorations.com/guides/esp32/begin/cp21xxx/)
+- Descargar instalador Driver ESP32 [[Download]](https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip) [[Instrucciones]]()
 - Enlace para agregar board ESP32 a Arduino IDE [[link]](https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json)
 
 ---
