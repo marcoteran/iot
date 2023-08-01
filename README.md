@@ -22,7 +22,9 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **s
 ## Contenido
 0. **Presentación del curso *Introducción al Internet de las Cosas***
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/iot/raw/master/lectures/00_iot_syllabus.pdf)
-
+1. **Introducción al Internet de las Cosas**
+	* Descargar presentación [[PDF]](https://github.com/marcoteran/iot/raw/master/lectures/01_iot_introduction.pdf)
+	
 ---		
 ## Laboratorios
 
