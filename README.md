@@ -30,6 +30,9 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **s
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/iot/raw/master/lectures/03_iot_embeddedsystems.pdf)
 4. **Introducción a Arduino y la ESP32**
 	* Descargar presentación [PDF](https://github.com/marcoteran/internetofthings/raw/master/lectures/04_iot_arduino.pdf)
+5. **Sensores IoT**
+	* Descargar presentación [PDF](https://github.com/marcoteran/iot/raw/master/lectures/05_iot_sensors.pdf)
+	
 ---		
 ## Laboratorios
 
